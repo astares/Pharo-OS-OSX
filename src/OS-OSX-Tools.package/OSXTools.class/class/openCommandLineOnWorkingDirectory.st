@@ -1,0 +1,4 @@
+utilities
+openCommandLineOnWorkingDirectory
+
+	OSXShell newTerminal

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "TorstenBergmann 1/9/2015 12:19",
+	"super" : "OSXSpecificTest",
+	"category" : "OS-OSX-Tests-Environment-Shell",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "OSXShellTest",
+	"type" : "normal"
+}

@@ -1,0 +1,1 @@
+Subclasses represent tests that only run on OSX  operating systems

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "TorstenBergmann 1/9/2015 12:18",
+	"super" : "Object",
+	"category" : "OS-OSX-Environment-Shell",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "OSXShell",
+	"type" : "normal"
+}

@@ -1,0 +1,4 @@
+utilities
+openFinderOnWorkingDirectory
+
+	OSXShell openFinderOnWorkingDirectory 
