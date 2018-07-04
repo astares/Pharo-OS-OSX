@@ -1,1 +1,0 @@
-The OSX Mail tool

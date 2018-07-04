@@ -1,1 +1,0 @@
-Test for the OS X platform class
