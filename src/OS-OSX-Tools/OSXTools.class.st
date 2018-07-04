@@ -34,6 +34,8 @@ OSXTools class >> finderMenuOn: aBuilder [
 OSXTools class >> menuCommandOn: aBuilder [ 
 	<worldMenu> 
 	(aBuilder item: #'OS-OS X Tools')	 
+		parent: #'Tools';
+		order: 12;
 		help: 'OS X Tools';
 		icon: (OSXToolIcons iconNamed: #appleIcon);
 		withSeparatorAfter
